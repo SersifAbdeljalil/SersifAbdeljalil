@@ -1,8 +1,8 @@
-# 👋 Hello, I'm Sersif Abdeljalil
+# Hello, I'm Sersif Abdeljalil
 
 <div align="center">
   
-## 🚀 Full-Stack Developer | AI Engineer | IoT Specialist
+## Full-Stack Developer | AI Engineer | IoT Specialist
 
 *Passionate about building intelligent, scalable applications that bridge the gap between web, mobile, and embedded systems*
 
@@ -14,7 +14,7 @@
 
 ---
 
-## 🎯 What I Do
+## What I Do
 
 ```javascript
 const sersif = {
@@ -27,13 +27,13 @@ const sersif = {
 
 ---
 
-## ⚠️ Important Notice
+## Important Notice
 
 > **LICENSE:** All repositories include a custom LICENSE. Please review carefully before using any content.
 
 ---
 
-## 💻 Frontend Development
+## Frontend Development
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -43,12 +43,12 @@ const sersif = {
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
 
-## 📱 Mobile Development
+## Mobile Development
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
-## ⚙️ Backend Development
+## Backend Development
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
@@ -64,7 +64,7 @@ const sersif = {
 ![JDBC](https://img.shields.io/badge/JDBC-007396?style=for-the-badge&logo=java&logoColor=white)
 ![JPA](https://img.shields.io/badge/JPA-007396?style=for-the-badge&logo=hibernate&logoColor=white)
 
-## 🤖 Artificial Intelligence & Machine Learning
+## Artificial Intelligence & Machine Learning
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
@@ -74,12 +74,12 @@ const sersif = {
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
 ### AI Specializations
-- 🧠 **Machine Learning (ML)**
-- 🔮 **Deep Learning (DL)**
-- 🎮 **Reinforcement Learning (RL)**
-- 💬 **Natural Language Processing (NLP)**
+- Machine Learning (ML)
+- Deep Learning (DL)
+- Reinforcement Learning (RL)
+- Natural Language Processing (NLP)
 
-## 🔌 IoT & Embedded Systems
+## IoT & Embedded Systems
 
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![ESP32](https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white)
@@ -87,19 +87,19 @@ const sersif = {
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
 ### IoT Skills
-- 📡 ESP32 Programming
-- 🔧 Arduino Development
-- 🌐 Sensor Integration
-- ⚡ Real-time Data Processing
+- ESP32 Programming
+- Arduino Development
+- Sensor Integration
+- Real-time Data Processing
 
-## 🗄️ Databases
+## Databases
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-## 🛠️ DevOps & Tools
+## DevOps & Tools
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -109,7 +109,7 @@ const sersif = {
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 
-## 🎨 Design & Other
+## Design & Other
 
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![XML](https://img.shields.io/badge/XML-FF6600?style=for-the-badge&logoColor=white)
@@ -117,7 +117,7 @@ const sersif = {
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
   
@@ -129,18 +129,18 @@ const sersif = {
 
 ---
 
-## 📫 Let's Connect!
+## Let's Connect
 
 <div align="center">
 
 | Platform | Link |
 |----------|------|
-| 📧 Email | [abdosarsif28@gmail.com](mailto:abdosarsif28@gmail.com) |
-| 💼 LinkedIn | [Abdeljalil Sersif](https://www.linkedin.com/in/aabdeljalil-sersif-803624339) |
-| 🌐 Portfolio | [Visit My Portfolio](https://sersif-abdeljaliilportfolio.vercel.app) |
-| 📱 WhatsApp | [+212 776-867058](https://wa.me/212776867058) |
-| 📘 Facebook | [My Profile](https://www.facebook.com/profile.php?id=100023069885044) |
-| 📸 Instagram | [@abdeljalil_sersif](https://www.instagram.com/abdeljalil_sersif?igsh=MWRsemd6ejFlNDQxNg==) |
+| Email | [abdosarsif28@gmail.com](mailto:abdosarsif28@gmail.com) |
+| LinkedIn | [Abdeljalil Sersif](https://www.linkedin.com/in/aabdeljalil-sersif-803624339) |
+| Portfolio | [Visit My Portfolio](https://sersif-abdeljaliilportfolio.vercel.app) |
+| WhatsApp | [+212 776-867058](https://wa.me/212776867058) |
+| Facebook | [My Profile](https://www.facebook.com/profile.php?id=100023069885044) |
+| Instagram | [@abdeljalil_sersif](https://www.instagram.com/abdeljalil_sersif?igsh=MWRsemd6ejFlNDQxNg==) |
 
 </div>
 
@@ -148,9 +148,9 @@ const sersif = {
 
 <div align="center">
 
-### 💡 "Code is like humor. When you have to explain it, it's bad." – Cory House
+### "Code is like humor. When you have to explain it, it's bad." – Cory House
 
-**⭐ Feel free to explore my repositories and contribute! Let's build something amazing together! 🚀**
+**Feel free to explore my repositories and contribute! Let's build something amazing together!**
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=YOUR_USERNAME.YOUR_USERNAME)
 
