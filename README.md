@@ -137,7 +137,7 @@ const sersif = {
 |----------|------|
 | Email | [abdosarsif28@gmail.com](mailto:abdosarsif28@gmail.com) |
 | LinkedIn | [Abdeljalil Sersif](https://www.linkedin.com/in/aabdeljalil-sersif-803624339) |
-| Portfolio | [Visit My Portfolio](https://sersif-abdeljaliilportfolio.vercel.app) |
+| Portfolio | [Visit My Portfolio](https://sersif-abdeljaliilportfolio.vercel.app/) |
 | WhatsApp | [+212 776-867058](https://wa.me/212776867058) |
 | Facebook | [My Profile](https://www.facebook.com/profile.php?id=100023069885044) |
 | Instagram | [@abdeljalil_sersif](https://www.instagram.com/abdeljalil_sersif?igsh=MWRsemd6ejFlNDQxNg==) |
