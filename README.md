@@ -1,19 +1,15 @@
 <div align="center">
 
-```
-  ███████╗███████╗██████╗ ███████╗██╗███████╗
-  ██╔════╝██╔════╝██╔══██╗██╔════╝██║██╔════╝
-  ███████╗█████╗  ██████╔╝███████╗██║█████╗  
-  ╚════██║██╔══╝  ██╔══██╗╚════██║██║██╔══╝  
-  ███████║███████╗██║  ██║███████║██║██║     
-  ╚══════╝╚══════╝╚═╝  ╚═╝╚══════╝╚═╝╚═╝     
-```
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&pause=1000&color=64FFDA&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;AI+%26+Machine+Learning+Engineer;IoT+Specialist" alt="Typing SVG" />
 
-### ABDELJALIL SERSIF
+# Abdeljalil Sersif
 
 **Full-Stack Developer · AI Engineer · IoT Specialist**
 
-[Portfolio](https://sersif-abdeljaliilportfolio.vercel.app) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/aabdeljalil-sersif-803624339) &nbsp;·&nbsp; [Email](mailto:abdosarsif28@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://sersif-abdeljaliilportfolio.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aabdeljalil-sersif-803624339)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:abdosarsif28@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/212776867058)
 
 </div>
 
@@ -21,15 +17,15 @@
 
 ```python
 class Sersif:
-    role        = "Full-Stack Developer & AI Engineer"
-    expertise   = ["Web", "Artificial Intelligence", "IoT Systems"]
-    focus       = "Building intelligent applications with ML / DL / RL"
-    status      = "Always learning"
+    role      = "Full-Stack Developer & AI Engineer"
+    expertise = ["Web", "Artificial Intelligence", "IoT Systems"]
+    focus     = "Building intelligent applications with ML · DL · RL"
+    status    = "Open to opportunities"
 ```
 
 ---
 
-## STACK
+## Stack
 
 **Frontend**
 
@@ -39,7 +35,6 @@ class Sersif:
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
-![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat-square&logo=react-router&logoColor=white)
 
 **Mobile**
 
@@ -55,10 +50,6 @@ class Sersif:
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=json-web-tokens&logoColor=white)
-![JEE](https://img.shields.io/badge/JEE-007396?style=flat-square&logo=java&logoColor=white)
-![Java Swing](https://img.shields.io/badge/Java_Swing-007396?style=flat-square&logo=java&logoColor=white)
-![JDBC](https://img.shields.io/badge/JDBC-007396?style=flat-square&logo=java&logoColor=white)
-![JPA](https://img.shields.io/badge/JPA-007396?style=flat-square&logo=hibernate&logoColor=white)
 
 **Artificial Intelligence**
 
@@ -69,7 +60,7 @@ class Sersif:
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 
-*ML · Deep Learning · Reinforcement Learning · NLP*
+`ML` `Deep Learning` `Reinforcement Learning` `NLP`
 
 **IoT & Embedded Systems**
 
@@ -78,14 +69,14 @@ class Sersif:
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat-square&logo=raspberry-pi&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 
-*Sensor Integration · Real-time Data Processing · Edge Computing*
+`Sensor Integration` `Real-time Data Processing` `Edge Computing`
 
 **Databases**
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
 
 **DevOps & Tooling**
 
@@ -93,30 +84,38 @@ class Sersif:
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
-![Apache](https://img.shields.io/badge/Apache-D22128?style=flat-square&logo=apache&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
 
-## CONTACT
+---
 
-| Channel | Address |
+## GitHub Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=64FFDA&icon_color=64FFDA&text_color=c9d1d9)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=64FFDA&text_color=c9d1d9)
+
+</div>
+
+---
+
+## Contact
+
+| | |
 |:---|:---|
-| Email | [abdosarsif28@gmail.com](mailto:abdosarsif28@gmail.com) |
-| LinkedIn | [Abdeljalil Sersif](https://www.linkedin.com/in/aabdeljalil-sersif-803624339) |
-| Portfolio | [sersif-abdeljaliilportfolio.vercel.app](https://sersif-abdeljaliilportfolio.vercel.app/) |
-| WhatsApp | [+212 776-867058](https://wa.me/212776867058) |
-| Facebook | [Profile](https://www.facebook.com/profile.php?id=100023069885044) |
-| Instagram | [@abdeljalil_sersif](https://www.instagram.com/abdeljalil_sersif?igsh=MWRsemd6ejFlNDQxNg==) |
+| **Email** | [abdosarsif28@gmail.com](mailto:abdosarsif28@gmail.com) |
+| **LinkedIn** | [Abdeljalil Sersif](https://www.linkedin.com/in/aabdeljalil-sersif-803624339) |
+| **Portfolio** | [sersif-abdeljaliilportfolio.vercel.app](https://sersif-abdeljaliilportfolio.vercel.app/) |
+| **WhatsApp** | [+212 776-867058](https://wa.me/212776867058) |
+| **Instagram** | [@abdeljalil_sersif](https://www.instagram.com/abdeljalil_sersif) |
 
 ---
 
 <div align="center">
 
-> *"Code is like humor. When you have to explain it, it's bad."* — Cory House
-
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=YOUR_USERNAME.YOUR_USERNAME)
-
-**All repositories include a custom LICENSE — please review before use.**
+*All repositories include a custom LICENSE — please review before use.*
 
 </div>
