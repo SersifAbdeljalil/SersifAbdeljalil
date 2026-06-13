@@ -2,7 +2,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&pause=1000&color=64FFDA&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;AI+%26+Machine+Learning+Engineer;IoT+Specialist" alt="Typing SVG" />
 
-# Abdeljalil Sersif
+**Abdeljalil Sersif**
 
 **Full-Stack Developer · AI Engineer · IoT Specialist**
 
